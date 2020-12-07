@@ -1,0 +1,136 @@
+@ARTICLE{Saunders_undated-vz,
+  title     = "Locally connected spiking neural networks for unsupervised
+               feature learning",
+  author    = "Saunders, Daniel J and Patel, Devdhar and Hazan, Hananel and
+               Siegelmann, Hava T and Kozma, Robert",
+  journal   = "Neural Networks",
+  publisher = "Elsevier Ltd",
+  volume    =  119,
+  pages     = "332--340"
+}
+
+@ARTICLE{Gil2009-my,
+  title    = "Fresh-cut product sanitation and wash water disinfection:
+              problems and solutions",
+  author   = "Gil, Maria I and Selma, Maria V and L{\'o}pez-G{\'a}lvez,
+              Francisco and Allende, Ana",
+  abstract = "It is well known that fresh-cut processors usually rely on wash
+              water sanitizers to reduce microbial counts in order to maintain
+              quality and extend shelf-life of the end product. Water is a
+              useful tool for reducing potential contamination but it can also
+              transfer pathogenic microorganisms. Washing with sanitizers is
+              important in fresh-cut produce hygiene, particularly removing
+              soil and debris, but especially in water disinfection to avoid
+              cross-contamination between clean and contaminated product. Most
+              of the sanitizing solutions induce higher microbial reduction
+              after washing when compared to water washing, but after storage,
+              epiphytic microorganisms grow rapidly, reaching similar levels.
+              In fact, despite the general idea that sanitizers are used to
+              reduce the microbial population on the produce, their main effect
+              is maintaining the microbial quality of the water. The use of
+              potable water instead of water containing chemical disinfection
+              agents for washing fresh-cut vegetables is being advocated in
+              some European countries. However, the problems of using an
+              inadequate sanitizer or even none are considered in this
+              manuscript. The need for a standardized approach to evaluate and
+              compare the efficiency of sanitizing agents is also presented.
+              Most new alternative techniques accentuate the problems with
+              chlorine suggesting that the industry should move away from this
+              traditional disinfection agent. However, the use of chlorine
+              based sanitizers are presented as belonging to the most effective
+              and efficient sanitizers when adequate doses are used. In this
+              review improvements in water disinfection and sanitation
+              strategies, including a shower pre-washing step and a final rinse
+              of the produce, are suggested.",
+  journal  = "Int J Food Microbiol",
+  volume   =  134,
+  number   = "1-2",
+  pages    = "37--45",
+  month    =  aug,
+  year     =  2009,
+  language = "en"
+}
+
+@ARTICLE{Everitt2012-ij,
+  title    = "{IFITM3} restricts the morbidity and mortality associated with
+              influenza",
+  author   = "Everitt, Aaron R and Clare, Simon and Pertel, Thomas and John,
+              Sinu P and Wash, Rachael S and Smith, Sarah E and Chin,
+              Christopher R and Feeley, Eric M and Sims, Jennifer S and Adams,
+              David J and Wise, Helen M and Kane, Leanne and Goulding, David
+              and Digard, Paul and Anttila, Verneri and Baillie, J Kenneth and
+              Walsh, Tim S and Hume, David A and Palotie, Aarno and Xue, Yali
+              and Colonna, Vincenza and Tyler-Smith, Chris and Dunning, Jake
+              and Gordon, Stephen B and {GenISIS Investigators} and {MOSAIC
+              Investigators} and Smyth, Rosalind L and Openshaw, Peter J and
+              Dougan, Gordon and Brass, Abraham L and Kellam, Paul",
+  abstract = "The 2009 H1N1 influenza pandemic showed the speed with which a
+              novel respiratory virus can spread and the ability of a generally
+              mild infection to induce severe morbidity and mortality in a
+              subset of the population. Recent in vitro studies show that the
+              interferon-inducible transmembrane (IFITM) protein family members
+              potently restrict the replication of multiple pathogenic viruses.
+              Both the magnitude and breadth of the IFITM proteins' in vitro
+              effects suggest that they are critical for intrinsic resistance
+              to such viruses, including influenza viruses. Using a knockout
+              mouse model, we now test this hypothesis directly and find that
+              IFITM3 is essential for defending the host against influenza A
+              virus in vivo. Mice lacking Ifitm3 display fulminant viral
+              pneumonia when challenged with a normally low-pathogenicity
+              influenza virus, mirroring the destruction inflicted by the
+              highly pathogenic 1918 'Spanish' influenza. Similar increased
+              viral replication is seen in vitro, with protection rescued by
+              the re-introduction of Ifitm3. To test the role of IFITM3 in
+              human influenza virus infection, we assessed the IFITM3 alleles
+              of individuals hospitalized with seasonal or pandemic influenza
+              H1N1/09 viruses. We find that a statistically significant number
+              of hospitalized subjects show enrichment for a minor IFITM3
+              allele (SNP rs12252-C) that alters a splice acceptor site, and
+              functional assays show the minor CC genotype IFITM3 has reduced
+              influenza virus restriction in vitro. Together these data reveal
+              that the action of a single intrinsic immune effector, IFITM3,
+              profoundly alters the course of influenza virus infection in
+              mouse and humans.",
+  journal  = "Nature",
+  volume   =  484,
+  number   =  7395,
+  pages    = "519--523",
+  month    =  mar,
+  year     =  2012,
+  language = "en"
+}
+
+@ARTICLE{Lampe2011-mp,
+  title    = "xStudent use of Facebook for organizing collaborative classroom
+              activities",
+  author   = "Lampe, Cliff and Wohn, Donghee Yvette and Vitak, Jessica and
+              Ellison, Nicole B and Wash, Rick",
+  abstract = "Social network sites such as Facebook are often conceived of as
+              purely social spaces; however, as these sites have evolved, so
+              have the ways in which students are using them. In this study, we
+              examine how undergraduate students use the social network site
+              Facebook to engage in classroom-related collaborative activities
+              (e.g., arranging study groups, learning about course processes)
+              to show how Facebook may be used as an informal tool that
+              students use to organize their classroom experiences, and explore
+              the factors that predict type of use. Data from two surveys (N =
+              302, N = 214) are used to analyze how Facebook use, social and
+              psychological factors, self-efficacy, and types of
+              instructor-student communication on Facebook are related to
+              positive and negative collaboration among students. We found that
+              predictors of Facebook use for class organizing behaviors include
+              self-efficacy and perceived motivation to communicate with others
+              using the site. When placed in the context of social and
+              psychological factors, Facebook intensity did not predict either
+              positive or negative collaboration, suggesting that how students
+              used the site, rather than how often they used the tool or how
+              important they felt it was, affected their propensity to
+              collaborate.",
+  journal  = "International Journal of Computer-Supported Collaborative
+              Learning",
+  volume   =  6,
+  number   =  3,
+  pages    = "329--347",
+  month    =  sep,
+  year     =  2011
+}
